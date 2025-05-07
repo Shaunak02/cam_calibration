@@ -5,13 +5,13 @@ This project performs **single-camera** and **stereo-camera calibration** using 
 ---
 
 ## 📁 Project Structure
-    scripts/   # Python scripts for calibration
-    images/    # Calibration image sets
-    output/    # Undistorted images, parameters
-    notebooks/ # Optional Jupyter notebooks for experiments
-    .gitignore
-    README.md
-    requirements.txt
+    - scripts/   # Python scripts for calibration
+    - images/    # Calibration image sets
+    - output/    # Undistorted images, parameters
+    - notebooks/ # Optional Jupyter notebooks for experiments
+    - .gitignore
+    - README.md
+    - requirements.txt
 
 ---
 
