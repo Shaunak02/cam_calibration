@@ -1,0 +1,21 @@
+# Bytecode & caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+cam_calib_env/
+env/
+venv/
+
+# Output files and generated data
+output/
+*.npy
+*.npz
+*.ply
+*.mp4
+*.log
+
+# Editor & OS-specific
+.vscode/
+.idea/
+.DS_Store
